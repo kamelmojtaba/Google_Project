@@ -1,0 +1,7 @@
+1- open the main folder
+2- install the requirements
+3- open the app folder
+4- run main.py file
+
+
+its butter to use ubuntu to work 100%
